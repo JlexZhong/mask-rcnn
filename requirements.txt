@@ -1,0 +1,16 @@
+tensorflow==1.15.0
+numpy==1.17.4
+scipy
+pillow==8.2.0
+cython
+matplotlib
+scikit-image==0.16.2
+keras==2.1.5
+opencv-python
+h5py==2.10
+imgaug
+pyqt5
+labelme
+PyYAML
+pycocotools
+IPython[all]
