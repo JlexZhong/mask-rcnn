@@ -137,7 +137,6 @@ __pycache__
 *.h5
 
 # dataset
-dataset/balloon/*
-dataset/before_mineral/*
-dataset/category_dataset/*
-samples/*
+/dataset/
+/logs/
+/saved_weight/
